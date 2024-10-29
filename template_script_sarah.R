@@ -8,7 +8,7 @@ name <- "Sarah"
 this_seed <- 42
 
 # pick some colours
-shades <- c("cyan3", "red4", "orange", "yellow")
+shades <- c("cyan3", "red4", "orange2", "yellow")
 
 # data structure defining the trees
 dat <- flametree_grow(seed = this_seed, time = 10, trees = 10)
