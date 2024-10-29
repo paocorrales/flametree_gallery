@@ -4,7 +4,7 @@ library(flametree)
 # your name, without spaces or special character
 name <- "Sarah"
 
-# pick a seed
+# pick one seed
 this_seed <- 42
 
 # pick some colours
