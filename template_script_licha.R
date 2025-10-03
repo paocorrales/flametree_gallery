@@ -2,13 +2,13 @@
 library(flametree)
 
 # your name, without spaces or special character
-name <- "Fabio"
+name <- "Lisandro"
 
 # pick a seed
-this_seed <- 43
+this_seed <- 56
 
 # pick some colours
-shades <- c("black", "red", "orange", "darkgreen")
+shades <- c("purple", "green", "orange", "yellow")
 
 # data structure defining the trees
 dat <- flametree_grow(seed = this_seed, time = 10, trees = 10)
