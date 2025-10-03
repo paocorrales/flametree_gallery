@@ -11,7 +11,7 @@ this_seed <- 19
 shades <- c("blue", "pink", "red", "darkgreen")
 
 # data structure defining the trees
-dat <- flametree_grow(seed = this_seed, time = 10, trees = 10)
+dat <- flametree_grow(seed = this_seed, time = 20, trees = 10)
 
 # draw the plot
 tree <- dat %>%
