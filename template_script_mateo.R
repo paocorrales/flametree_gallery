@@ -5,7 +5,7 @@ library(flametree)
 name <- "Mateo"
 
 # pick a seed
-this_seed <- 50
+this_seed <- 55
 
 # pick some colours
 shades <- c("purple", "blue", "lightblue", "darkgreen")
