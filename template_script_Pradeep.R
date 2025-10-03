@@ -1,11 +1,11 @@
-# install.packages('flametree')
+install.packages('flametree')
 library(flametree)
 
 # your name, without spaces or special character
-name <- "Pradeep"
+name <- "Tomas"
 
 # pick a seed
-this_seed <- 56
+this_seed <- 51
 
 # pick some colours
 shades <- c("darkgreen", "brown", "orange", "cyan")
